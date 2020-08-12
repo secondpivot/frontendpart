@@ -1,0 +1,389 @@
+
+.part1{
+    width: 100%;
+    height: 270px;
+    background-image: url(./images/background.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+.part2{
+    width: 100%;
+    height: 380px;
+    border-radius: 15px;
+    background-color:#9b4f96;
+    flex-wrap: wrap;
+}
+.part3{
+    width: 100%;
+    height: 325px;
+    background-color: #0038a8;
+    flex-wrap: wrap;
+}
+.top1{
+  display:flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+
+
+}
+.placeicon{
+
+  
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-left:25px;
+    
+}
+.inputplace{
+
+    width: 12%;
+    height:60px;
+    margin-right: 45px;
+    margin-top: 40px;
+}
+ select{
+  background-color: black; 
+  width: 220px;
+  height:60px ;
+  color: white;
+  font-size: 30px;
+  opacity:0.5;
+
+} 
+#cities{
+  border-radius: 10px;
+}
+.temp{
+    width: 5%;
+    height:80px;
+    margin-right: 25px;
+    margin-top: 40px;
+    border-right-style: solid;
+    border-right-width: 2px;
+    padding-right: 30px ;
+    border-right-color: white;
+   
+  
+}
+.celcius{
+  margin-bottom: 20px;
+  font-size: 25px;
+  color:white;
+}
+.celciusvalue{
+  font-size: 40px;
+  color:white;
+}
+
+.humidity{
+
+    width: 5%;
+    height:80px;
+    margin-right: 100px;
+    margin-top: 40px;
+    
+
+}
+.humidityname{
+  margin-bottom: 20px;
+  font-size: 25px;
+  color:white;
+}
+.humidityvalue{
+  font-size: 40px;
+  color:white;
+}
+.icon1{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+
+}
+.icon2{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+    padding-top: 33px;
+
+
+}
+.icon3{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+
+
+}
+.icon4{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+    padding-top: 33px;
+
+
+}
+.icon5{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+
+}
+.icon6{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+    padding-top: 33px;
+
+}
+.icon7{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+
+}
+.icon8{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+    padding-top: 33px;
+
+}
+.icon9{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    color:white;
+
+}
+.no2{
+  padding-right:0px;
+}
+
+.top2{
+    display:flex;
+    justify-content: flex-start;
+    flex-wrap:wrap;
+  
+  
+  }
+
+  .time{
+    width: 12%;
+    height:90px;
+    margin-right: 45px;
+    margin-left: 165px;
+    margin-top: 10px;
+  }
+  .clock{
+    font-size: 25px;
+    margin-bottom: 0px;
+    color:yellow;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+  .time1{
+    padding-top: 30px;
+  }
+  .time2{
+    font-size: 15px;
+    padding-top: 40px;
+    padding-right:4px;
+  }
+  .image1{
+    padding-top:10px;
+  }
+  .date{
+   font-size: 25px;
+   color:white;
+
+  }
+
+  .tempf{
+    width: 5%;
+    height:80px;
+    margin-right: 25px;
+    margin-top: 40px;
+    border-right-style: solid;
+    border-right-width: 2px;
+    padding-right: 30px ;
+    border-right-color: white;
+  }
+  .tempfa{
+    font-size: 25px;
+    color:white;
+    margin-bottom:20px;
+  }
+  .favalue{
+    font-size: 40px;
+    color:white;
+  }
+  
+  .precipitation{
+    width: 5%;
+    height:80px;
+    margin-right: 100px;
+    margin-top: 40px;
+  }
+  .pp{
+    font-size: 25px;
+    color:white;
+    margin-bottom:20px;
+  }
+  .ppvalue{
+    font-size: 40px;
+    color:white;
+  }
+  .icon11{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:white;
+
+  }
+  .icon12{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+
+  }
+  .icon13{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:white;
+
+  }
+  .icon14{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+
+  }
+  .icon15{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:white;
+  }
+  .icon16{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+
+  }
+  .icon17{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:white;
+  }
+  .icon18{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+
+  }
+  .icon19{
+    width: 3%;
+    height:50px;
+    margin-right: 18px;
+    margin-top: 49px;
+    margin-left: 20px;
+    font-size: 20px;
+    color:white;
+
+  }
+  .no{
+    padding-left:10px;
+
+  }
+  .navbar{
+    display: flex;
+  }
+  .sec21{
+   margin-left: 600px;
+   margin-right: 700px;
+   font-size: 25px;
+   color: white;
+
+  }
+  .sec22{
+    margin-right: 10px;
+  }
+  .sec23{
+    margin-right: 10px;
+    padding-top: 13px;
+    color:white;
+  }
+  .sec24{
+    padding-top:13px;
+    color:white;
+    padding-left: 12px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    background-color: grey;
+  }
+  .part2{
+    background-color: black;
+  }
+  .othercities{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .city1{
+      height: 200px;
+      width: 200px;
+      background-image: url(./images/auckland.svg);
+    
+
+  }
